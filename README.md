@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emir Utku</h1>
-- 🌱 I’m currently learning **Kotlin and Unity**
+- 🌱 I’m currently learning Kotlin and Unity
 
 - 📫 How to reach me **e.u.bican@gmail.com**
 
